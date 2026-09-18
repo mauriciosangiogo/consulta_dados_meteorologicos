@@ -1,0 +1,1 @@
+APP para consulta de dados do INMET e ANA, foco em precipitação pluviométrica diária.
